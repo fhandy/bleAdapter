@@ -1,0 +1,3 @@
+public/static/js/*
+coverage
+*.config.js
