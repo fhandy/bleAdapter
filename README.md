@@ -5,7 +5,7 @@ Adapter BLE for Cassia Router
 docker-compose
 
 ## step
-change ip gateway 
+change ip gateway on docker-compose env
 ```
 i.e 192.168.40.1
 ```
